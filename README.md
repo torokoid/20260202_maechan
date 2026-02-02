@@ -329,7 +329,7 @@ p.note { display: none; }
 <h2><span class="yellow">国道を北上するとお寺の仏像様が道を見下ろしてます</span></h2>
 <a href="20260202_065.JPG" target="_blank"><img src="20260202_065.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">チェンライ市街エリアに入ることを示す、道の門が立派</span></h2>
+<h2><span class="yellow">チェンライ市街エリアに入ることを示す道の門が立派</span></h2>
 <a href="20260202_066.JPG" target="_blank"><img src="20260202_066.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">市街を抜けて、メー・ファー・ルアン王立大学の門</span></h2>
@@ -345,7 +345,7 @@ p.note { display: none; }
 <h2><span class="yellow">上の地図はGoogleMapsのiframe埋込地図でちょっと不安なので、念のため、画像地図も貼り付け、画像クリックでGoogleMapsに飛びます</span></h2>
 <a href="https://maps.app.goo.gl/7p4fCazHrocW1feF9" target="_blank"><img src="20260202_001.png" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">帰り着くと、屋根上にはいつもの産毛の鳩たち</span></h2>
+<h2><span class="yellow">帰り着くと、屋根上にはいつもの産毛の鳩と大人の鳩たち</span></h2>
 <a href="20260202_069.JPG" target="_blank"><img src="20260202_069.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">定点観測地点の日没にも間に合いました</span></h2>
